@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4Zl3WrhyVKHn3acrIsGN+YJYP0x9XeH2GkcVyr9wd+7h3SXjRS4AeQb2K53wp+gtHfiR+bw7QysUWXFBeOPCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilia\\Epicodus\\ASP.NET\\Animal\\CretaceousClient.Solution\\CretaceousClient.Solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilia\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
